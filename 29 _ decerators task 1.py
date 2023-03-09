@@ -22,4 +22,3 @@ def divide(a, b):
 
 print(divide(10, 3))
 print(divide(10, 5))
-print(divide(10, 0))
